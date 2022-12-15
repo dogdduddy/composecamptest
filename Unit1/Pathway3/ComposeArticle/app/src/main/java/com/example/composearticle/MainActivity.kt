@@ -29,6 +29,8 @@ class MainActivity : ComponentActivity() {
                 // A surface container using the 'background' color from the theme
                 Surface(color = MaterialTheme.colors.background) {
                     ComposeArticleApp()
+                    // test
+                    // test 1
                 }
             }
         }
