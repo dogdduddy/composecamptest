@@ -30,6 +30,7 @@ class MainActivity : ComponentActivity() {
                 Surface(color = MaterialTheme.colors.background) {
                     ComposeArticleApp()
                     // test
+                    // test 1
                 }
             }
         }
